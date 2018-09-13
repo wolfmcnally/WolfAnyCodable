@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WolfAnyCodable_Tests' do
+  pod 'WolfAnyCodable', :path => '../'
+  
+  
+end
