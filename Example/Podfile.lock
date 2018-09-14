@@ -1,0 +1,16 @@
+PODS:
+  - WolfAnyCodable (1.0)
+
+DEPENDENCIES:
+  - WolfAnyCodable (from `../`)
+
+EXTERNAL SOURCES:
+  WolfAnyCodable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WolfAnyCodable: 012e32954ad74b8903899f1cee7323c1de10896e
+
+PODFILE CHECKSUM: 65541d75cd6d6177b477649fffea7ccac9f638c8
+
+COCOAPODS: 1.6.0.beta.1

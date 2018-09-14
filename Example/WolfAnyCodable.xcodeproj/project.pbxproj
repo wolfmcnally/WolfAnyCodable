@@ -17,9 +17,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		699F4161538408480B5498B9 /* Pods-WolfAnyCodable_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WolfAnyCodable_Tests.release.xcconfig"; path = "Target Support Files/Pods-WolfAnyCodable_Tests/Pods-WolfAnyCodable_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9817A5CC96C42A19449960CD /* Pods-WolfAnyCodable_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WolfAnyCodable_Tests.debug.xcconfig"; path = "Target Support Files/Pods-WolfAnyCodable_Tests/Pods-WolfAnyCodable_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A1379BA925B2398F8E098FE8 /* WolfAnyCodable.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WolfAnyCodable.podspec; path = ../WolfAnyCodable.podspec; sourceTree = "<group>"; };
-		B51EF8DA4C87084A86EB639A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E8EB31600FD5A192B527AF97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A1379BA925B2398F8E098FE8 /* WolfAnyCodable.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WolfAnyCodable.podspec; path = ../WolfAnyCodable.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B51EF8DA4C87084A86EB639A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E8EB31600FD5A192B527AF97 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EA935D411A7C234467F82E8A /* Pods_WolfAnyCodable_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WolfAnyCodable_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -95,7 +95,6 @@
 				9817A5CC96C42A19449960CD /* Pods-WolfAnyCodable_Tests.debug.xcconfig */,
 				699F4161538408480B5498B9 /* Pods-WolfAnyCodable_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -131,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

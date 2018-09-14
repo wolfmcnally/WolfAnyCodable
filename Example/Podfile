@@ -1,6 +1,7 @@
 use_frameworks!
+
+platform :ios, '10.0'
+
 target 'WolfAnyCodable_Tests' do
   pod 'WolfAnyCodable', :path => '../'
-  
-  
 end
