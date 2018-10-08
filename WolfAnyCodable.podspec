@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfAnyCodable'
-    s.version          = '1.0.1'
+    s.version          = '1.0.2'
     s.summary          = 'Swift type-erased wrappers for Encodable, Decodable, and Codable values.'
 
     s.description      = <<-DESC
