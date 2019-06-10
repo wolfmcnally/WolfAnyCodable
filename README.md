@@ -1,10 +1,5 @@
 # WolfAnyCodable
 
-[![CI Status](https://img.shields.io/travis/wolfmcnally/WolfAnyCodable.svg?style=flat)](https://travis-ci.org/wolfmcnally/WolfAnyCodable)
-[![Version](https://img.shields.io/cocoapods/v/WolfAnyCodable.svg?style=flat)](https://cocoapods.org/pods/WolfAnyCodable)
-[![License](https://img.shields.io/cocoapods/l/WolfAnyCodable.svg?style=flat)](https://cocoapods.org/pods/WolfAnyCodable)
-[![Platform](https://img.shields.io/cocoapods/p/WolfAnyCodable.svg?style=flat)](https://cocoapods.org/pods/WolfAnyCodable)
-
 Swift type-erased wrappers for Encodable, Decodable, and Codable values.
 
 This cocoapod exists to easily incorporate the functionality of [AnyCodable](https://github.com/Flight-School/AnyCodable).
